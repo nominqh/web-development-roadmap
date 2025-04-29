@@ -1,0 +1,132 @@
+2025.04.28
+<Nguon: w3school.com>
+
+JavaScript
+framework: Express.js
+
+What is JavaScript?
+JavaScript is the programming language of the web.
+
+What is used for?
+update and change both HTML and CSS.
+calculate, manipulate and validate data.
+
+Why Study JavaScript?
+JavaScript is one of the 3 languages all web developers must learn:
+   1. HTML to define the content of web pages
+   2. CSS to specify the layout of web pages
+   3. JavaScript to program the behavior of web pages
+
+Python
+framework: Django
+
+What is Python?
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
+What is used for?
+web development (server-side),
+software development,
+mathematics,
+system scripting.
+
+Why Python?
+Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+Python has a simple syntax similar to the English language.
+Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+Python can be treated in a procedural way, an object-oriented way or a functional way.
+
+C#
+framework: ASP.NET Core
+
+What is C#?
+C# is pronounced "C-Sharp".
+It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.
+C# has roots from the C family, and the language is close to other popular languages like C++ and Java.
+The first version was released in year 2002. The latest version, C# 13, was released in November 2024.
+
+What is used for?
+Mobile applications
+Desktop applications
+Web applications
+Web services
+Web sites
+Games
+VR
+Database applications
+And much, much more!
+
+Why Use C#?
+It is one of the most popular programming languages in the world
+It is easy to learn and simple to use
+It has huge community support
+C# is an object-oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
+As C# is close to C, C++ and Java, it makes it easy for programmers to switch to C# or vice versa
+
+Java
+framework: Spring Boot
+
+What is Java?
+Java is a popular programming language, created in 1995.
+It is owned by Oracle, and more than 3 billion devices run Java.
+
+What is used for?
+Mobile applications (specially Android apps)
+Desktop applications
+Web applications
+Web servers and application servers
+Games
+Database connection
+And much, much more!
+
+Why Use Java?
+Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
+It is one of the most popular programming languages in the world
+It has a large demand in the current job market
+It is easy to learn and simple to use
+It is open-source and free
+It is secure, fast and powerful
+It has huge community support (tens of millions of developers)
+Java is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
+As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
+
+Ruby
+framework: Ruby on Rails
+
+What is Ruby?
+Ruby is an open-source object-oriented scripting language invented in the mid-90s by Yukihiro Matsumoto.
+Unlike languages such as C and C++, a scripting language doesn’t talk directly to hardware. It’s written to a text file and then parsed by an interpreter and turned into code. These programs are generally procedural in nature, meaning they are read from top to bottom.
+Object-oriented languages, on the other hand, break out pieces of code into objects that can be created and used as needed. You can reuse these objects in other parts of the program, or even other applications.
+Yukihiro wanted to create a scripting language that leveraged object-oriented programming and increase code reuse to help speed up development. And so the Ruby programming language was born, using simple language and syntax to handle data and logic to solve problems.
+
+What is used for?
+web servers, DevOps, and web scraping and crawling
+when you add in the functionality of the Rails application framework, you can do even more, especially database-driven web applications.
+
+Why Use Ruby?
+The Ruby programming language is a highly portable general-purpose language that serves many purposes.
+Ruby is great for building desktop applications, static websites, data processing services, and even automation tools. 
+
+Go
+framework: Gin
+
+What is Go?
+Go is a cross-platform, open source programming language
+Go can be used to create high-performance applications
+Go is a fast, statically typed, compiled language known for its simplicity and efficiency
+Go was developed at Google by Robert Griesemer, Rob Pike, and Ken Thompson in 2007
+Go's syntax is similar to C++
+
+What is used for?
+Web development (server-side)
+Developing network-based programs
+Developing cross-platform enterprise applications
+Cloud-native development
+
+Why Use Go?
+Go is fun and easy to learn
+Go has fast run time and compilation time
+Go supports concurrency
+Go has memory management
+Go works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.)
+
